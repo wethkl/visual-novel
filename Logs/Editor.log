@@ -1,0 +1,338 @@
+VBCSCompilerPreWarmer: watching VBCSCompiler (PID 20476)
+VBCSCompilerPreWarmer: pre-warm launched (dotnet PID 16160)
+VBCSCompiler prewarm took 12.59 ms
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.6/staging' branch; Version is '6000.6.4f1 (12bfff696524) revision 1228799'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Channel LicenseClient-Дарья doesn't exist
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'ru' Physical Memory: 16069 MB
+BatchMode: 0, IsHumanControllingUs: 1, StartBugReporterOnCrash: 1, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-11-14T17:38:34Z
+[Licensing::Module] Successfully launched the LicensingClient (PId: 11936)
+
+COMMAND LINE ARGUMENTS:
+D:\6000.6.4f1\Editor\Unity.exe
+-openfile
+D:\top-chiki-heralds-price-24b62eb\Assets\Scenes\Main.unity
+Opening project via file: D:/top-chiki-heralds-price-24b62eb/Assets/Scenes/Main.unity
+D:/top-chiki-heralds-price-24b62eb
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [11840]  Target information:
+
+Player connection [11840]  * "[IP] 10.0.7.200 [Port] 55504 [Flags] 2 [Guid] 2758350259 [EditorId] 2758350259 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-J87CQC8) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [11840]  * "[IP] 192.168.1.120 [Port] 55504 [Flags] 2 [Guid] 2758350259 [EditorId] 2758350259 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-J87CQC8) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [11840] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [11840] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Package Manager] Connected to IPC stream "Upm-13636" after 0.9 seconds.
+[Licensing::Module] Licensing is not yet initialized.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Дарья" at "2026-11-14T17:38:36.2078923Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 11936, path: "D:/6000.6.4f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              07d03b78e2f4423ea8e20b8dc4add266
+  Correlation Id:          2ed388f71b897d6a54c2b3aa73de7c14
+  External correlation Id: 1979031762490475732
+  Machine Id:              HlOsm2nYtDSJb6C8lEXfRjt1gC0=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Дарья" (connect: 1.29s, validation: 0.10s, handshake: 1.69s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Дарья-notifications" at "2026-11-14T17:38:38.0030203Z"
+[Licensing::Module] Connected to LicensingClient (PId: 11936, launch time: 0.00, total connection time: 3.08s)
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 7972620063280-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.01
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 3.14s
+[Licensing::Module] Licensing is initialized (took 1.95s).
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+Launching Unity Data Store - D:/6000.6.4f1/Editor/Data/Tools/Unity.DataStore.exe 
+Unity Data Store artifact dir = Library/DataStore, working dir = D:/top-chiki-heralds-price-24b62ebUnity Data Store running and initialised
+[Physics::Module] Selected backend (deferred post-plugins).
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Initialize engine version: 6000.6.4f1 (12bfff696524)
+[EntityIdStore] init: VM path (explicit commit), pageSize=4096, blockCount=1048576, entitiesPerBlock=256, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path D:/6000.6.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/top-chiki-heralds-price-24b62eb/Assets
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x46a8)
+    Vendor:   Intel
+    VRAM:     8034 MB
+    Driver:   31.0.101.4255
+Initialize mono
+Mono path[0] = 'D:/6000.6.4f1/Editor/Data/Managed'
+Mono path[1] = 'D:/6000.6.4f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'D:/6000.6.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/6000.6.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56636
+CodeReloadManager initialized
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/6000.6.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003141 seconds.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  1.430 seconds
+Domain Reload Profiling: 2346ms
+	BeginReloadAssembly (241ms)
+		CreateAndSetChildDomain (22ms)
+	RebuildCommonClasses (10ms)
+	RebuildNativeTypeToScriptingClass (30ms)
+	initialDomainReloadingComplete (95ms)
+	LoadAllAssembliesAndSetupDomain (536ms)
+		LoadAssemblies (215ms)
+		TypeCache.Refresh (386ms)
+			TypeCache.ScanAssembly (360ms)
+		AnalyzeDomain (1ms)
+	FinalizeReload (1434ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (4ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			BeforeProcessingInitializeOnLoad (161ms)
+			ProcessInitializeOnLoadAttributes (164ms)
+			ProcessInitializeOnLoadMethodAttributes (663ms)
+			EditorAssembliesLoaded (3ms)
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 21 packages:
+  Built-in packages:
+    com.unity.multiplayer.center@2.0.1 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.multiplayer.center@549886182930)
+    com.unity.ugui@2.6.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.ugui@0727b404f3a0)
+    com.unity.modules.accessibility@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.accessibility)
+    com.unity.modules.adaptiveperformance@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.adaptiveperformance)
+    com.unity.modules.animation@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.audio)
+    com.unity.modules.imageconversion@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.jsonserialize)
+    com.unity.modules.physicscore2d@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.physicscore2d)
+    com.unity.modules.tetgen@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.tetgen)
+    com.unity.modules.timelinefoundation@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.timelinefoundation)
+    com.unity.modules.ui@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.ui)
+    com.unity.modules.unitywebrequest@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.unitywebrequest)
+    com.unity.modules.vectorgraphics@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.vectorgraphics)
+    com.unity.modules.uielements@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.uielements)
+    com.unity.modules.subsystems@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.subsystems)
+    com.unity.modules.physics2d@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.physics2d)
+    com.unity.modules.physics@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.physics)
+    com.unity.modules.hierarchycore@1.0.0 (location: D:\top-chiki-heralds-price-24b62eb\Library\PackageCache\com.unity.modules.hierarchycore)
+[Subsystems] No new subsystems found in resolved package list.
+[Package Manager] Done registering packages in 0.03 seconds
+Starting: D:\6000.6.4f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/1900b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: D:/top-chiki-heralds-price-24b62eb
+ExitCode: 0 Duration: 0s249ms
+[238/269    0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+*** Tundra build success (0.19 seconds), 1 items updated, 269 evaluated
+AssetDatabase: script compilation time: 1.627937s
+Begin MonoManager ReloadAssembly
+Total cache size 5750092
+Total cache size after purge 5750092, took 00:00:00.0833237
+Native extension for WindowsStandalone target not found
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.753 seconds
+Domain Reload Profiling: 1370ms
+	BeginReloadAssembly (322ms)
+		DisableScriptedObjects (50ms)
+		CreateAndSetChildDomain (62ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (29ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (194ms)
+		LoadAssemblies (140ms)
+		TypeCache.Refresh (20ms)
+			TypeCache.ScanAssembly (12ms)
+		AnalyzeDomain (16ms)
+			BuildScriptInfoCaches (12ms)
+	FinalizeReload (756ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (176ms)
+			ProcessInitializeOnLoadAttributes (106ms)
+			ProcessInitializeOnLoadMethodAttributes (55ms)
+			AfterProcessingInitializeOnLoad (3ms)
+		AwakeInstancesAfterBackupRestoration (52ms)
+Starting new worker id: 0 with log in D:/top-chiki-heralds-price-24b62eb/Logs/AssetImportWorkerHW0.log
+
+Asset Pipeline Refresh (id=3c608bcbe4d007e4cb3bc1914a7fd04a): Total: 3.331 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=969 ms
+		Asset DB Callback time: managed=33 ms, native=36 ms
+		Scripting: domain reloads=1, domain reload time=642 ms, compile time=1633 ms, other=15 ms
+		Project Asset Count: scripts=182, non-scripts=161
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 38.098ms
+	ApplyChangesToAssetFolders: 1.021ms
+	Scan: 36.079ms
+	Collect global state as custom dependencies: 18.980ms
+	CategorizeScriptCompilationAssets: 1.572ms
+	ProcessAssetsWithTransientArtifactChanges: 12.108ms
+	CategorizeAssets: 9.758ms
+	CompileScripts: 1633.422ms
+	ImportOutOfDateAssets: 768.599ms (759.353ms without children)
+		UnloadImportedAssets: 0.213ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.207ms
+		ImportSchedulerStart: 8.817ms
+	PostProcessAllAssets: 33.390ms
+		MonoPostProcessAllAssets: 33.285ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 13.388ms
+			SyncVS.PostprocessSyncProject 2.365ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 1.305ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 1.094ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.395ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.273ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.238ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.114ms
+	UnloadStreamsBegin: 3.504ms
+	GenerateScriptTypeHashes: 2.939ms
+	GenerateScriptTypeSerializationHashes: 5.473ms
+	Untracked: 764.675ms
+
+Application.AssetDatabase Initial Refresh End
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Scanning for USB devices : 1.833ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-top-chiki-heralds-price-24b62eb
+Opening scene 'Assets/Scenes/Main.unity'
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/Main.unity'
+	Deserialize:            1.832 ms
+	Integration:            24.739 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.059 ms
+	Total Operation Time:   26.632 ms
+Unloading 436 unused Assets / (0.5 MB). Loaded Objects now: 1161.
+Memory consumption went from 240.1 MB to 239.6 MB.
+Total: 9.880600 ms (FindLiveObjects: 0.336200 ms CreateObjectMapping: 0.034300 ms MarkObjects: 8.648500 ms  DeleteObjects: 0.423200 ms)
+
+[LAYOUT] About to load UserSettings\Layouts\default-6000.dwlt, keepMainWindow=False
+[LAYOUT] About to save layout D:\top-chiki-heralds-price-24b62eb\UserSettings\Layouts\default-6000.dwlt
+[LAYOUT] About to save layout C:/Users/Дарья/AppData/Roaming/Unity/Editor-5.x/Preferences\Layouts\current\default-6000.dwlt
+[MODES] ModeService[default].InitializeCurrentMode
+[MODES] ModeService[default].RaiseModeChanged(default, default)
+This project uses Input Manager, which is marked for deprecation. To manage input in your project, use the <a href="https://docs.unity3d.com/Packages/com.unity.inputsystem@latest">Input System package</a> instead.
+<RI> Initializing input.
+<RI> Input initialized.
+[Project] Loading completed in 11.836 seconds
+	Project init time: 				10.048 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		2.852 seconds
+		Asset Database init time: 		0.554 seconds
+		Global illumination init time: 	0.018 seconds
+		Assemblies load time: 			2.440 seconds
+		Unity extensions init time: 	0.004 seconds
+		Asset Database refresh time: 	3.331 seconds
+	Scene opening time: 			1.580 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1794677926723,"processId":13636,"projectLoad":11.8360211,"projectInit":10.0479175,"templateInit":0.0,"packageManagerInit":2.8523194,"assetDatabaseInit":0.5537399,"globalIlluminationInit":0.0175168,"assembliesLoad":2.4400277,"unityExtensionsInit":0.0036727,"assetDatabaseRefresh":3.3314977,"sceneOpening":1.5801677}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1794677926724,"processId":13636,"editorVersion":"6000.6.4f1 (12bfff696524)","branch":"6000.6/staging","buildType":"Release","platform":"Windows"}
+Asset Pipeline Refresh (id=763e5f28eb533884abddfa0e1e1944ea): Total: 0.032 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Start Indexing on Editor startup
+[Indexing] Starting Initial Indexing for Assets
+Created GICache directory at C:/Users/Дарья/AppData/LocalLow/Unity/Caches/GiCache. Took: 0.061s, timestamps: [13.112 - 13.173]
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Worker ready: AssetImportWorkerHW0 0
+Starting new worker id: 1 with log in D:/top-chiki-heralds-price-24b62eb/Logs/AssetImportWorkerHW1.log
+[Worker0] Imported GUID: 319b8889f363f5947acf209c17a94149 - Path: Packages/com.unity.ugui/package.json - Importer: PreviewImporter -> (ImportResultId: 'c438f7efcadf76e422dae28006dc5d95') in 0.1594315 seconds
+Worker ready: AssetImportWorkerHW1 1
+TrimDiskCacheJob: Current cache size 0mb
+Scanning for USB devices : 11.020ms
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Scanning for USB devices : 3.978ms
+Scanning for USB devices : 30.564ms
+Scanning for USB devices : 1.752ms
+Scanning for USB devices : 15.157ms
+Scanning for USB devices : 2.112ms
+Scanning for USB devices : 1.808ms
+Scanning for USB devices : 4.457ms
+Scanning for USB devices : 9.373ms
+Scanning for USB devices : 1.278ms
+[Licensing::Client] Successfully resolved entitlement details
+MonoPathRemapper: Attempts to remap: 2961; Successful remaps: 1218
+Serialized file version minimum: 23, current 23
+[LAYOUT] About to save layout D:\top-chiki-heralds-price-24b62eb\UserSettings\Layouts\default-6000.dwlt
+[LAYOUT] About to save layout C:/Users/Дарья/AppData/Roaming/Unity/Editor-5.x/Preferences\Layouts\current\default-6000.dwlt
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+[Licensing::IpcConnector] LicenseClient-Дарья-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-Дарья channel disconnected successfully.
+Lingering sessions upon destruction of worker manager
+Unity Data Store service was successfully shut down
+UDS shutting down local client system
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+CodeReloadManager destroyed
+VBCSCompilerPreWarmer: requested VBCSCompiler shutdown
+Checking for leaked weakptr:
+  Found no leaked weakptrs.
+[Package Manager] Server process was shutdown
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1794682531000,"processId":13636,"allocatedMemory":11472552,"memoryLabels":[{"Default":163807},{"Permanent":15516},{"NewDelete":70453},{"Thread":4197984},{"Manager":33181},{"VertexData":8},{"Geometry":816},{"Texture":24},{"Shader":841123},{"Material":132},{"GfxDevice":55968},{"Animation":952},{"Audio":984},{"FreeType":8},{"FontEngine":736},{"Physics":1970},{"Physics2D":16},{"Serialization":16992},{"Input":42840},{"JobScheduler":256},{"TextLib":19030},{"Mono":48},{"ScriptingNativeRuntime":1282040},{"BaseObject":48848},{"Resource":1444},{"Renderer":2504},{"Transform":4685},{"File":34130},{"WebCam":616},{"Culling":32},{"Terrain":11442},{"Wind":24},{"STL":40},{"String":562307},{"StaticString":3808},{"Utility":2674426},{"Curl":48},{"PoolAlloc":2168},{"AI":80},{"TypeTree":8869},{"ScriptManager":12656},{"CodeReload":448},{"RuntimeInitializeOnLoadManager":64},{"Sprites":102},{"SpriteAtlas":120},{"GI":7816},{"Director":8296},{"CloudService":7584},{"WebRequest":5730},{"VR":49650},{"SceneManager":608},{"Video":208},{"LazyScriptCache":32},{"Camera":729},{"Secure":265},{"SerializationCache":9256},{"APIUpdating":10320},{"Subsystems":336},{"VirtualTexturing":57888},{"StaticSafetyDebugInfo":278528},{"Analytics":592},{"Hierarchy":1188},{"UIElements":40},{"CoreStats":14456},{"Identifiers":7152},{"Gui":653},{"EditorUtility":165591},{"VersionControl":8},{"Undo":931},{"AssetDatabase":680524},{"AssetImporter":40},{"EditorGi":328},{"UnityConnect":32546},{"Upm":1988},{"UpmDiagnostics":8},{"AssetCompliance":96},{"DrivenProperties":72},{"LocalIPC":216},{"ProfilerEditor":9746},{"CoreBusinessMetrics":3602},{"Windowing":456},{"Licensing":1264},{"AssetReference":32},{"IPCStream":32}]}

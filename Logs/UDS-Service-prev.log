@@ -1,0 +1,24 @@
+
+Server arguments:
+  --memory-size 1073741824
+  --shared-postfix 9f0df1044c72819a7e52b225b4d9857d
+  --working-directory Library/DataStore
+  --silent-console
+  --shutdown-grace 0
+  --client-process-check 0
+  --uds-log-file D:/top-chiki-heralds-price-24b62eb/Logs/UDS-Service.log
+  --debug-log 2
+  -name
+  Unity.DataStore
+
+Initialising UDS system complete:
+  - System type: Service
+  - Resource namespace: 9f0df1044c72819a7e52b225b4d9857d
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+Starting Unity Data Store Application
+Unity Data Store Application Complete
+[Warning] Shutting down service while there are still connected clients, client count = 2
+Shut down UDS service system complete

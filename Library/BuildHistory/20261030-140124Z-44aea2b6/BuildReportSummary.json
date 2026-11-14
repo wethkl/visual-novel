@@ -1,0 +1,34 @@
+{
+    "Version": 2,
+    "BuildContentOptions": [
+        "None"
+    ],
+    "BuildManifestHash": "00000000000000000000000000000000",
+    "BuildName": "top-chiki-heralds-price-24b62eb",
+    "BuildOptions": [
+        "ForceOptimizeScriptCompilation",
+        "Il2CPP",
+        "CompressTextures",
+        "StripDebugSymbols",
+        "ShaderLivelinkSupport",
+        "AutoRunPlayer",
+        "StrictMode"
+    ],
+    "BuildProfilePath": "",
+    "BuildResult": 1,
+    "BuildResultName": "Succeeded",
+    "BuildSessionGUID": "44aea2b665bf8bb4aac336c4d78b6d20",
+    "BuildStartedAt": "2026-10-30T14:01:24.4785881Z",
+    "BuildType": 1,
+    "BuildTypeName": "Player",
+    "ContentSourceBuildSessionGUID": "00000000000000000000000000000000",
+    "OutputPath": "D:/top-chiki-heralds-price-24b62eb/a/top-chiki-heralds-price-24b62eb.exe",
+    "Platform": 19,
+    "PlatformName": "StandaloneWindows64",
+    "Subtarget": 2,
+    "SubtargetName": "Player",
+    "TotalErrors": 0,
+    "TotalSizeBytes": 109752115,
+    "TotalTimeMs": 14615,
+    "TotalWarnings": 2
+}

@@ -1,0 +1,27 @@
+-------------------------------------------------------------------------------
+Build Report - Content Size Statistics
+Serialized File count                      4
+Resource file count                        2
+Object count                             193
+Serialized Files                     604.1 kb	   3.8%
+Serialized Files Headers               6.5 kb	   0.0%
+Resource data (Texture,Audio...)      15.1 mb	  96.2%
+Total build size                      15.7 mb
+
+Largest Types:
+    15.1 mb	  96.3% Texture2D
+   556.0 kb	   3.5% TextRendering::Font
+
+Largest Assets:
+     3.0 mb	  18.9% Assets/Resources/Characters/sebastian.png
+     2.3 mb	  14.7% Assets/Resources/Characters/tomas.png
+     2.3 mb	  14.6% Assets/Resources/Characters/mira.png
+     2.0 mb	  12.4% Assets/Resources/Characters/agata.png
+   781.0 kb	   4.9% Assets/Resources/Characters/eleonora.png
+   556.3 kb	   3.5% Assets/Resources/Fonts/NotoSans-Regular.ttf
+   450.6 kb	   2.8% Assets/Resources/Backgrounds/scriptorium.jpg
+   450.6 kb	   2.8% Assets/Resources/Backgrounds/title.jpg
+   450.6 kb	   2.8% Assets/Resources/Backgrounds/office.jpg
+   450.6 kb	   2.8% Assets/Resources/Backgrounds/night.jpg
+   450.6 kb	   2.8% Assets/Resources/Backgrounds/yard.jpg
+-------------------------------------------------------------------------------
